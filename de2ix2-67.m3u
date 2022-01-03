@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Germany Web",DE | RTL LIVE
-https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl-live/
+https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl-live/index.m3u8
 
 #EXTINF:-1 group-title="Germany Web",DE | RTL2 LIVE
 https://patbuweb.herokuapp.com/api/play?url=https://www.2ix2.com/rtl2-live/index.m3u8
