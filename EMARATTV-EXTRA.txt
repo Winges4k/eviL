@@ -1,0 +1,53 @@
+EXTM3U
+#EXTINF:-1 radio="false" tvg-id="dubaitvhd.ae" tvg-name="AR | Dubai HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubaialoula-live1.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai HD
+http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Dubai Noor" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/59e457478a.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Noor
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8?
+#EXTINF:-1 radio="false" tvg-id="dubaione.ae" tvg-name="AR | Dubai One HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5e81e67611.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai One HD
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 radio="false" tvg-id="SRA" tvg-name="AR | Dubai Racing 1" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Racing 1
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-id="SR2" tvg-name="AR | Dubai Racing 2" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Dubai Racing 3" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Dubai Racing HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Racing HD
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Dubai Sport 3 HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Sport 3 HD
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 radio="false" tvg-id="dubaisports1.ae" tvg-name="AR | Dubai Sports" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Sports
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR |  Abu Dhabi Sports 1 HD" tvg-logo="https://admedia.ae/images/Brands/202022311593025IL.png" group-title="EMARAT TV قنوات اماراتية",AR |  Abu Dhabi Sports 1 HD
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-id="dubaisports2.ae" tvg-name="AR | Dubai Sports 2 HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Sports 2 HD
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 radio="false" tvg-id="dubaizaman.ae" tvg-name="AR | Dubai Zaman" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5fa3e2e9ac.png" group-title="EMARAT TV قنوات اماراتية",AR | Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | Abu Dhabi Elmarat" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74bcd9.png" group-title="EMARAT TV قنوات اماراتية",AR | Abu Dhabi Elmarat
+http://admdn2ta.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-id="abudhabi.ae" tvg-name="AR | Abu Dhabi HD" tvg-logo="https://admedia.ae/images/Brands/20202231158324351.png" group-title="EMARAT TV قنوات اماراتية",AR | Abu Dhabi HD
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-id="AD Drama + HD" tvg-name="AR | Ad Drama HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74cb66.png" group-title="EMARAT TV قنوات اماراتية",AR | Ad Drama HD
+http://cms-winges4k.com:25461/415820959997/415820959997/10269
+#EXTINF:-1 radio="false" tvg-name="AR | Ad Sports 1 HD" tvg-logo="https://admedia.ae/images/Brands/202022311593025IL.png" group-title="EMARAT TV قنوات اماراتية",AR | Ad Sports 1 HD
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-id="OSN Sports 2 HD" tvg-name="AR | Ad Sports 2 HD" tvg-logo="https://admedia.ae/images/Brands/2020223115944993BD.png" group-title="EMARAT TV قنوات اماراتية",AR | Ad Sports 2 HD
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-id="OSN Sports 3 HD" tvg-name="AR | Ad Sports 3 HD" tvg-logo="https://admedia.ae/images/Brands/20202231159595728K.png" group-title="EMARAT TV قنوات اماراتية",AR | Ad Sports 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-id="OSN Sports 4 HD" tvg-name="AR | Ad Sports 4 HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e3ad6cc72.png" group-title="EMARAT TV قنوات اماراتية",AR | Ad Sports 4 HD
+http://dmieigthvll.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-id="SamaDubai.ae" tvg-name="AR | Sama Dubai HD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5e26e83947.png" group-title="EMARAT TV قنوات اماراتية",AR | Sama Dubai HD
+http://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 radio="false" tvg-id="nationalgeographicabudhabi.ae" tvg-name="AR | National Geographic HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/Natgo.png" group-title="EMARAT TV قنوات اماراتية",AR | National Geographic HD
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | SHARJAH SPORT" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/SharjahSport.png" group-title="EMARAT TV قنوات اماراتية",AR | SHARJAH SPORT
+http://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | EMARAT TV" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e1c74b137.png" group-title="EMARAT TV قنوات اماراتية",AR | EMARAT TV
+http://admdn3ta.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR |  KHALIJ TV" tvg-logo="https://www.al-khalij.tv/images/logo.png" group-title="EMARAT TV قنوات اماراتية",AR |  KHALIJ TV
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | ALWOUSTA TV HD" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/0f905c68c3eb7a06454f4953614c32684970496a4c70616a537336554e54.png" group-title="EMARAT TV قنوات اماراتية",AR | ALWOUSTA TV HD
+http://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
+#EXTINF:-1 radio="false" tvg-name="AR | YES TV HD" tvg-logo="https://raw.githubusercontent.com/MassinDV/my/master/Logo/YesTV.png" group-title="EMARAT TV قنوات اماراتية",AR | YES TV HD
+http://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
