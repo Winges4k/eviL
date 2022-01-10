@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1,Sharaf
+https://all-winges.herokuapp.com/download?url=nuYQh_j44jY
+#EXTINF:-1,Nafidat Al janna
+https://all-winges.herokuapp.com/download?url=pdLCqpPaAcM
+#EXTINF:-1, 2021  اكتشاف
+https://all-winges.herokuapp.com/download?url=RBGasQcTjZE
+#EXTINF:-1,Alqfaz
+https://all-winges.herokuapp.com/download?url=bOE8ua212_Y
+#EXTINF:-1,Chams L3achiya 2021
+https://all-winges.herokuapp.com/download?url=l50AiVjFpzQ
+#EXTINF:-1,Adam 
+https://all-winges.herokuapp.com/download?url=WaKlk0qAwVA
+#EXTINF:-1,Chaïbia
+https://all-winges.herokuapp.com/download?url=LgHBysVc6Ak
+#EXTINF:-1,Algharq
+https://all-winges.herokuapp.com/download?url=3k49FNRsv6s
+#EXTINF:-1,Opération Casablanca 2021
+https://all-winges.herokuapp.com/download?url=RdT5RdkM8bY
+#EXTINF:-1,COUSCOUS SWELL
+https://all-winges.herokuapp.com/download?url=zdiSns2j9F8
+#EXTINF:-1,Alrijal La Ya3odon
+https://patbuweb.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=Loi_hy0oOjk
+#EXTINF:-1,
+https://patbuweb.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=ZFJkfAgnGks
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
