@@ -1,168 +1,168 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="51 Radio TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/1171.jpg",51 Radio TV [Italian]
+#EXTINF:-1 tvg-name="51 Radio TV " tvg-logo="http://meichsner.tel/TVList/img/1171.jpg",51 Radio TV 
 http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-name="AB Channel [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5269.png",AB Channel [Italian]
+#EXTINF:-1 tvg-name="AB Channel " tvg-logo="http://meichsner.tel/TVList/img/5269.png",AB Channel 
 https://59ef7ad665d1d.streamlock.net:1443/abchannel/abchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="Aurora Arte [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5271.png",Aurora Arte [Italian]
+#EXTINF:-1 tvg-name="Aurora Arte " tvg-logo="http://meichsner.tel/TVList/img/5271.png",Aurora Arte 
 https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
-#EXTINF:-1 tvg-name="Azzurra TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5272.png",Azzurra TV [Italian]
+#EXTINF:-1 tvg-name="Azzurra TV " tvg-logo="http://meichsner.tel/TVList/img/5272.png",Azzurra TV 
 https://sb.top-ix.org/avtvlive/streaming/playlist.m3u8
-#EXTINF:-1 tvg-name="CafèTV24 [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5273.png",CafèTV24 [Italian]
+#EXTINF:-1 tvg-name="CafèTV24 " tvg-logo="http://meichsner.tel/TVList/img/5273.png",CafèTV24 
 http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 2 Altamura [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5275.png",Canale 2 Altamura [Italian]
+#EXTINF:-1 tvg-name="Canale 2 Altamura " tvg-logo="http://meichsner.tel/TVList/img/5275.png",Canale 2 Altamura 
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 7 [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 7 [Italian]
+#EXTINF:-1 tvg-name="Canale 7 " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 7 
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
-#EXTINF:-1 tvg-name="Canale 7 [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 7 [Italian]
+#EXTINF:-1 tvg-name="Canale 7 " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 7 
 http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 8 [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 8 [Italian]
+#EXTINF:-1 tvg-name="Canale 8 " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 8 
 http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 10 [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 10 [Italian]
+#EXTINF:-1 tvg-name="Canale 10 " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 10 
 http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1 tvg-name="Canale 10 [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 10 [Italian]
+#EXTINF:-1 tvg-name="Canale 10 " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Canale 10 
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 21 Campania [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5276.png",Canale 21 Campania [Italian]
+#EXTINF:-1 tvg-name="Canale 21 Campania " tvg-logo="http://meichsner.tel/TVList/img/5276.png",Canale 21 Campania 
 http://live.sloode.com:1935/canale21/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Canale 21 Lazio [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5277.png",Canale 21 Lazio [Italian]
+#EXTINF:-1 tvg-name="Canale 21 Lazio " tvg-logo="http://meichsner.tel/TVList/img/5277.png",Canale 21 Lazio 
 http://live.sloode.com:1935/canale21/live2/playlist.m3u8
-#EXTINF:-1 tvg-name="Carina TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Carina TV [Italian]
+#EXTINF:-1 tvg-name="Carina TV " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Carina TV 
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Carina TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Carina TV [Italian]
+#EXTINF:-1 tvg-name="Carina TV " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Carina TV 
 http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Company TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Company TV [Italian]
+#EXTINF:-1 tvg-name="Company TV " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Company TV 
 http://wma10.fluidstream.net/CompanyTV/_definst_:livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Deejay TV (IT) [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Deejay TV (IT) [Italian]
+#EXTINF:-1 tvg-name="Deejay TV (IT) " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Deejay TV (IT) 
 https://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8
-#EXTINF:-1 tvg-name="ETV Marche [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5286.png",ETV Marche [Italian]
+#EXTINF:-1 tvg-name="ETV Marche " tvg-logo="http://meichsner.tel/TVList/img/5286.png",ETV Marche 
 http://live.sloode.com:1935/etvmarche_live/_definst_/etvmarche/playlist.m3u8
-#EXTINF:-1 tvg-name="Elive TV Brescia [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5283.png",Elive TV Brescia [Italian]
+#EXTINF:-1 tvg-name="Elive TV Brescia " tvg-logo="http://meichsner.tel/TVList/img/5283.png",Elive TV Brescia 
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Esperia TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5284.png",Esperia TV [Italian]
+#EXTINF:-1 tvg-name="Esperia TV " tvg-logo="http://meichsner.tel/TVList/img/5284.png",Esperia TV 
 http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Esperia TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5285.png",Esperia TV [Italian]
+#EXTINF:-1 tvg-name="Esperia TV " tvg-logo="http://meichsner.tel/TVList/img/5285.png",Esperia TV 
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-#EXTINF:-1 tvg-name="Euro Indie Music Chart [Italian]" tvg-logo="http://meichsner.tel/TVList/img/702.png",Euro Indie Music Chart [Italian]
+#EXTINF:-1 tvg-name="Euro Indie Music Chart " tvg-logo="http://meichsner.tel/TVList/img/702.png",Euro Indie Music Chart 
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 tvg-name="Gold TV Roma [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5288.png",Gold TV Roma [Italian]
+#EXTINF:-1 tvg-name="Gold TV Roma " tvg-logo="http://meichsner.tel/TVList/img/5288.png",Gold TV Roma 
 http://151.0.207.99:1935/GoldTV/GOLD_17/playlist.m3u8
-#EXTINF:-1 tvg-name="History Lab [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",History Lab [Italian]
+#EXTINF:-1 tvg-name="History Lab " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",History Lab 
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="History Lab [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5289.png",History Lab [Italian]
+#EXTINF:-1 tvg-name="History Lab " tvg-logo="http://meichsner.tel/TVList/img/5289.png",History Lab 
 http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8?ANTONYGTV
-#EXTINF:-1 tvg-name="History Lab [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5290.png",History Lab [Italian]
+#EXTINF:-1 tvg-name="History Lab " tvg-logo="http://meichsner.tel/TVList/img/5290.png",History Lab 
 http://wma10.fluidstream.net:1935/HistoryLab/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Icaro TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5291.png",Icaro TV [Italian]
+#EXTINF:-1 tvg-name="Icaro TV " tvg-logo="http://meichsner.tel/TVList/img/5291.png",Icaro TV 
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 tvg-name="La Tr3 [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5294.png",La Tr3 [Italian]
+#EXTINF:-1 tvg-name="La Tr3 " tvg-logo="http://meichsner.tel/TVList/img/5294.png",La Tr3 
 https://59ef7ad665d1d.streamlock.net:1443/eslife/_definst_/eslife/playlist.m3u8
-#EXTINF:-1 tvg-name="M2O IT [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",M2O IT [Italian]
+#EXTINF:-1 tvg-name="M2O IT " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",M2O IT 
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
-#EXTINF:-1 tvg-name="Orler TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5299.png",Orler TV [Italian]
+#EXTINF:-1 tvg-name="Orler TV " tvg-logo="http://meichsner.tel/TVList/img/5299.png",Orler TV 
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Padre Pio TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5302.png",Padre Pio TV [Italian]
+#EXTINF:-1 tvg-name="Padre Pio TV " tvg-logo="http://meichsner.tel/TVList/img/5302.png",Padre Pio TV 
 https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Paradise TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5303.png",Paradise TV [Italian]
+#EXTINF:-1 tvg-name="Paradise TV " tvg-logo="http://meichsner.tel/TVList/img/5303.png",Paradise TV 
 https://59ef7ad665d1d.streamlock.net:1443/paradisetv/_definst_/paradisetv/playlist.m3u8
-#EXTINF:-1 tvg-name="RDS Social TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",RDS Social TV [Italian]
+#EXTINF:-1 tvg-name="RDS Social TV " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",RDS Social TV 
 https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
-#EXTINF:-1 tvg-name="RMK TV Sciacca [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5321.png",RMK TV Sciacca [Italian]
+#EXTINF:-1 tvg-name="RMK TV Sciacca " tvg-logo="http://meichsner.tel/TVList/img/5321.png",RMK TV Sciacca 
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
-#EXTINF:-1 tvg-name="RTC Quarta Rete [Italian]" tvg-logo="http://meichsner.tel/TVList/img/7409.png",RTC Quarta Rete [Italian]
+#EXTINF:-1 tvg-name="RTC Quarta Rete " tvg-logo="http://meichsner.tel/TVList/img/7409.png",RTC Quarta Rete 
 https://msh0232.stream.seeweb.it/live/stream012.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="RTC Telecalabria [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5323.jpg",RTC Telecalabria [Italian]
+#EXTINF:-1 tvg-name="RTC Telecalabria " tvg-logo="http://meichsner.tel/TVList/img/5323.jpg",RTC Telecalabria 
 http://fl1.mediastreaming.it:1935/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="RTC Telecalabria [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5324.png",RTC Telecalabria [Italian]
+#EXTINF:-1 tvg-name="RTC Telecalabria " tvg-logo="http://meichsner.tel/TVList/img/5324.png",RTC Telecalabria 
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="RTP [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5328.png",RTP [Italian]
+#EXTINF:-1 tvg-name="RTP " tvg-logo="http://meichsner.tel/TVList/img/5328.png",RTP 
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio 51 TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Radio 51 TV [Italian]
+#EXTINF:-1 tvg-name="Radio 51 TV " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Radio 51 TV 
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Company TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Radio Company TV [Italian]
+#EXTINF:-1 tvg-name="Radio Company TV " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Radio Company TV 
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Iglesias [Italian]" tvg-logo="http://meichsner.tel/TVList/img/1197.png",Radio Iglesias [Italian]
+#EXTINF:-1 tvg-name="Radio Iglesias " tvg-logo="http://meichsner.tel/TVList/img/1197.png",Radio Iglesias 
 http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 tvg-name="Radio Piter Pan TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5306.png",Radio Piter Pan TV [Italian]
+#EXTINF:-1 tvg-name="Radio Piter Pan TV " tvg-logo="http://meichsner.tel/TVList/img/5306.png",Radio Piter Pan TV 
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="Radionorba TV IT [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Radionorba TV IT [Italian]
+#EXTINF:-1 tvg-name="Radionorba TV IT " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Radionorba TV IT 
 http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Rai 3 IT [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Rai 3 IT [Italian]
+#EXTINF:-1 tvg-name="Rai 3 IT " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Rai 3 IT 
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ReggioTV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5318.png",ReggioTV [Italian]
+#EXTINF:-1 tvg-name="ReggioTV " tvg-logo="http://meichsner.tel/TVList/img/5318.png",ReggioTV 
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1 tvg-name="Retesole Lazio [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5319.png",Retesole Lazio [Italian]
+#EXTINF:-1 tvg-name="Retesole Lazio " tvg-logo="http://meichsner.tel/TVList/img/5319.png",Retesole Lazio 
 http://5c389faa13be3.streamlock.net:1935/8058/8058/playlist.m3u8
-#EXTINF:-1 tvg-name="Reteveneta [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5320.png",Reteveneta [Italian]
+#EXTINF:-1 tvg-name="Reteveneta " tvg-logo="http://meichsner.tel/TVList/img/5320.png",Reteveneta 
 https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
-#EXTINF:-1 tvg-name="Sardegna Uno [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5331.png",Sardegna Uno [Italian]
+#EXTINF:-1 tvg-name="Sardegna Uno " tvg-logo="http://meichsner.tel/TVList/img/5331.png",Sardegna Uno 
 https://59d7d6f47d7fc.streamlock.net/sardegnauno/sardegnauno/playlist.m3u8
-#EXTINF:-1 tvg-name="Sophia TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5334.png",Sophia TV [Italian]
+#EXTINF:-1 tvg-name="Sophia TV " tvg-logo="http://meichsner.tel/TVList/img/5334.png",Sophia TV 
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
-#EXTINF:-1 tvg-name="Super TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Super TV [Italian]
+#EXTINF:-1 tvg-name="Super TV " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Super TV 
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1 tvg-name="TELE MONTE NEVE [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TELE MONTE NEVE [Italian]
+#EXTINF:-1 tvg-name="TELE MONTE NEVE " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TELE MONTE NEVE 
 http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
-#EXTINF:-1 tvg-name="TLN Tele Lazio Nord [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5354.png",TLN Tele Lazio Nord [Italian]
+#EXTINF:-1 tvg-name="TLN Tele Lazio Nord " tvg-logo="http://meichsner.tel/TVList/img/5354.png",TLN Tele Lazio Nord 
 http://tln.srfms.com:1935/TLN/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="TSN Tele Sondrio News [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TSN Tele Sondrio News [Italian]
+#EXTINF:-1 tvg-name="TSN Tele Sondrio News " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TSN Tele Sondrio News 
 http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
-#EXTINF:-1 tvg-name="TV7 Benevento [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5362.png",TV7 Benevento [Italian]
+#EXTINF:-1 tvg-name="TV7 Benevento " tvg-logo="http://meichsner.tel/TVList/img/5362.png",TV7 Benevento 
 http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="TV7 Triveneta [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5363.png",TV7 Triveneta [Italian]
+#EXTINF:-1 tvg-name="TV7 Triveneta " tvg-logo="http://meichsner.tel/TVList/img/5363.png",TV7 Triveneta 
 http://217.61.26.46:8080/hls/triveneta.m3u8
-#EXTINF:-1 tvg-name="TV2000 IT [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TV2000 IT [Italian]
+#EXTINF:-1 tvg-name="TV2000 IT " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TV2000 IT 
 http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-name="TV2000 IT [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5360.png",TV2000 IT [Italian]
+#EXTINF:-1 tvg-name="TV2000 IT " tvg-logo="http://meichsner.tel/TVList/img/5360.png",TV2000 IT 
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-name="TV2000 IT [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5361.png",TV2000 IT [Italian]
+#EXTINF:-1 tvg-name="TV2000 IT " tvg-logo="http://meichsner.tel/TVList/img/5361.png",TV2000 IT 
 http://mi1.wz.tv2000.it:80/tv2000_alfa.m3u8
-#EXTINF:-1 tvg-name="TVA (Vicenza) [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TVA (Vicenza) [Italian]
+#EXTINF:-1 tvg-name="TVA (Vicenza) " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TVA (Vicenza) 
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
-#EXTINF:-1 tvg-name="TV Qui (Modena) [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5358.png",TV Qui (Modena) [Italian]
+#EXTINF:-1 tvg-name="TV Qui (Modena) " tvg-logo="http://meichsner.tel/TVList/img/5358.png",TV Qui (Modena) 
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-name="TVRS [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TVRS [Italian]
+#EXTINF:-1 tvg-name="TVRS " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TVRS 
 http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
-#EXTINF:-1 tvg-name="TeleBoario [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TeleBoario [Italian]
+#EXTINF:-1 tvg-name="TeleBoario " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TeleBoario 
 http://flash7.streaming.xdevel.com/teleboario/teleboario/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleChiara [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TeleChiara [Italian]
+#EXTINF:-1 tvg-name="TeleChiara " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TeleChiara 
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleMia [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5342.png",TeleMia [Italian]
+#EXTINF:-1 tvg-name="TeleMia " tvg-logo="http://meichsner.tel/TVList/img/5342.png",TeleMia 
 http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleMonteve [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5344.jpg",TeleMonteve [Italian]
+#EXTINF:-1 tvg-name="TeleMonteve " tvg-logo="http://meichsner.tel/TVList/img/5344.jpg",TeleMonteve 
 http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleNordest [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5345.png",TeleNordest [Italian]
+#EXTINF:-1 tvg-name="TeleNordest " tvg-logo="http://meichsner.tel/TVList/img/5345.png",TeleNordest 
 http://wms.shared.streamshow.it/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleNordest [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5346.png",TeleNordest [Italian]
+#EXTINF:-1 tvg-name="TeleNordest " tvg-logo="http://meichsner.tel/TVList/img/5346.png",TeleNordest 
 https://59d7d6f47d7fc.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleQuattro [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TeleQuattro [Italian]
+#EXTINF:-1 tvg-name="TeleQuattro " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",TeleQuattro
 http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleTerni [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5350.png",TeleTerni [Italian]
+#EXTINF:-1 tvg-name="TeleTerni " tvg-logo="http://meichsner.tel/TVList/img/5350.png",TeleTerni 
 https://diretta.teleterni.it/live/stream.m3u8
-#EXTINF:-1 tvg-name="TeleVideo Agrigento [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5352.png",TeleVideo Agrigento [Italian]
+#EXTINF:-1 tvg-name="TeleVideo Agrigento " tvg-logo="http://meichsner.tel/TVList/img/5352.png",TeleVideo Agrigento 
 https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
-#EXTINF:-1 tvg-name="Telecolor Lombardia [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Telecolor Lombardia [Italian]
+#EXTINF:-1 tvg-name="Telecolor Lombardia " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Telecolor Lombardia 
 https://cdn.mainstreaming.tv/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1 tvg-name="Telefoggia [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Telefoggia [Italian]
+#EXTINF:-1 tvg-name="Telefoggia " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Telefoggia 
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
-#EXTINF:-1 tvg-name="Telefriuli [Italian]" tvg-logo="http://meichsner.tel/TVList/img/7410.jpg",Telefriuli [Italian]
+#EXTINF:-1 tvg-name="Telefriuli " tvg-logo="http://meichsner.tel/TVList/img/7410.jpg",Telefriuli 
 https://or01.top-ix.org/streamtech/telefriuli/playlist.m3u8
-#EXTINF:-1 tvg-name="Telemolise [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5343.png",Telemolise [Italian]
+#EXTINF:-1 tvg-name="Telemolise " tvg-logo="http://meichsner.tel/TVList/img/5343.png",Telemolise 
 http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream_tlm/playlist.m3u8
-#EXTINF:-1 tvg-name="Telesud Trapani [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Telesud Trapani [Italian]
+#EXTINF:-1 tvg-name="Telesud Trapani " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Telesud Trapani 
 https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Teletricolore [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Teletricolore [Italian]
+#EXTINF:-1 tvg-name="Teletricolore " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Teletricolore 
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1 tvg-name="Tevere TV [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5353.png",Tevere TV [Italian]
+#EXTINF:-1 tvg-name="Tevere TV " tvg-logo="http://meichsner.tel/TVList/img/5353.png",Tevere TV 
 https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
-#EXTINF:-1 tvg-name="US: Company TV (Italy) [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",US: Company TV (Italy) [Italian]
+#EXTINF:-1 tvg-name="US: Company TV (Italy) " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",US: Company TV (Italy) 
 http://wma10.fluidstream.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Vera TV (Marche) [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Vera TV (Marche) [Italian]
+#EXTINF:-1 tvg-name="Vera TV (Marche) " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Vera TV (Marche) 
 http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
-#EXTINF:-1 tvg-name="Vera TV Marche [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5367.png",Vera TV Marche [Italian]
+#EXTINF:-1 tvg-name="Vera TV Marche " tvg-logo="http://meichsner.tel/TVList/img/5367.png",Vera TV Marche 
 http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
-#EXTINF:-1 tvg-name="Video Calabria [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Video Calabria [Italian]
+#EXTINF:-1 tvg-name="Video Calabria " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",Video Calabria 
 http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8
-#EXTINF:-1 tvg-name="Videolina (Sardegna) [Italian]" tvg-logo="http://meichsner.tel/TVList/img/5370.png",Videolina (Sardegna) [Italian]
+#EXTINF:-1 tvg-name="Videolina (Sardegna) " tvg-logo="http://meichsner.tel/TVList/img/5370.png",Videolina (Sardegna) 
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
-#EXTINF:-1 tvg-name="eTV Marche [Italian]" tvg-logo="http://meichsner.tel/TVList/img/0.jpg",eTV Marche [Italian]
+#EXTINF:-1 tvg-name="eTV Marche " tvg-logo="http://meichsner.tel/TVList/img/0.jpg",eTV Marche 
 http://live.streamcaster.net:1935/etvmarche_live/etvmarche/livestream.m3u8
